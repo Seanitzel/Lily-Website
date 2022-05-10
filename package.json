@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@vueuse/core": "^8.3.1",
+    "@vueuse/nuxt": "^8.3.1",
+    "nuxt": "3.0.0-rc.1"
+  },
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
